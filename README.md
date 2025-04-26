@@ -16,7 +16,7 @@ Proje, MIUUL tarafından verilen bir case study çalışması kapsamında tamaml
 - **Veri Görselleştirme**
 
 📌 Word Cloud:
-![Word Cloud](./images/wordcloud.png)
+![Image](https://github.com/user-attachments/assets/008b2c6a-e35f-4fa5-86e6-58e9efb827eb)
 
 📌 En Sık Geçen Kelimeler:
 ![Bar Plot](./images/barplot.png)
