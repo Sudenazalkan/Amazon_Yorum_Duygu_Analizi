@@ -19,7 +19,7 @@ Proje, MIUUL tarafından verilen bir case study çalışması kapsamında tamaml
 ![Image](https://github.com/user-attachments/assets/008b2c6a-e35f-4fa5-86e6-58e9efb827eb)
 
 📌 En Sık Geçen Kelimeler:
-![Bar Plot](./images/barplot.png)
+![Image](https://github.com/user-attachments/assets/a8d09072-a5cb-402e-8c41-29caf7bb3b43)
 
 - **Duygu Analizi**
   - `SentimentIntensityAnalyzer` kullanılarak compound skorların hesaplanması
